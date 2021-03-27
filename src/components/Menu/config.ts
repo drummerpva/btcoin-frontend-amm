@@ -31,6 +31,10 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
+        label: 'GitHub',
+        href: 'https://github.com/drummerpva',
+      },
+      {
         label: 'PancakeSwap',
         href: 'https://pancakeswap.info/token/0x71783d77d6019560770f7ce059a9d7294e1c4c70',
       },
