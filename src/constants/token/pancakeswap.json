@@ -20,7 +20,7 @@
     {
       "name": "BTCoin",
       "symbol": "BTCOIN",
-      "address": "0x71783d77d6019560770f7ce059a9d7294e1c4c70",
+      "address": "0xe9cb0afe21cf468bd907507c857b8fca8ed001d4",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/BTCOIN.png"

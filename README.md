@@ -9,4 +9,4 @@ This repo is responsible for the **exchange** interface of the AMM: [exchange.pa
 If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
 If you want to list a token, refers to the [listing guidelines](./listing.md).
 
-Code base of [BTCoin Finance Exchange](https://exchange.btcoin.finance/#/swap?outputCurrency=0x71783d77d6019560770f7ce059a9d7294e1c4c70&inputCurrency=BUSD)
+Code base of [BTCoin Finance Exchange](https://exchange.btcoin.finance/#/swap?outputCurrency=0xe9cb0afe21cf468bd907507c857b8fca8ed001d4&inputCurrency=BUSD)
