@@ -17,7 +17,7 @@ const Menu: React.FC = (props) => {
   return (
     <UikitMenu
       links={links}
-      priceLink="https://exchange.btcoin.finance/#/swap?outputCurrency=0xe9cb0afe21cf468bd907507c857b8fca8ed001d4&inputCurrency=BUSD"
+      priceLink="https://exchange.btcoin.finance/#/swap?outputCurrency=0x779c19621fb068c3bab5d574b8de5d803bc00b80&inputCurrency=BUSD"
       account={account as string}
       login={(connectorId: ConnectorId) => {
         if (connectorId === 'walletconnect') {
