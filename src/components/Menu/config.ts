@@ -16,11 +16,11 @@ const config: MenuEntry[] = [
     href: '/pool',
     icon: 'LiquidityIcon'
   },
-  {
+  /* {
     label: 'Farms',
     icon: 'FarmIcon',
     href: 'https://btcoin.finance/#/farms'
-  },
+  }, */
   {
     label: 'Dens',
     icon: 'PoolIcon',
@@ -52,7 +52,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Exchange Swap BUSD x BTCOINS',
-        href: 'https://btcoin.finance/exchange/#/swap?outputCurrency=0x779c19621fb068c3bab5d574b8de5d803bc00b80&inputCurrency=BUSD',
+        href: 'https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x779c19621fb068c3bab5d574b8de5d803bc00b80&inputCurrency=BUSD',
       },
     ],
   },
